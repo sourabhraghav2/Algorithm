@@ -24,8 +24,6 @@ public class SmallestUniqueWindowWithAllChar {
 				countUnique++;
 			}
 		}
-
-
 		return findSubStringTest(input, charCount, countUnique);
 	}
 
